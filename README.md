@@ -5,6 +5,7 @@
 - [https://nickel-rune-building.glitch.me/paintings](​https://nickel-rune-building.glitch.me/paintings)
 - [https://nickel-rune-building.glitch.me/painting/443](​https://nickel-rune-building.glitch.me/painting/443)
 - [https://nickel-rune-building.glitch.me/painting/43374534856](​https://nickel-rune-building.glitch.me/painting/43374534856)
+- [https://nickel-rune-building.glitch.me/painting/gallery/7](​https://nickel-rune-building.glitch.me/painting/gallery/7)
 - [https://nickel-rune-building.glitch.me/painting/gallery/43374534856](​https://nickel-rune-building.glitch.me/painting/gallery/43374534856)
 - [https://nickel-rune-building.glitch.me/painting/artist/106](​https://nickel-rune-building.glitch.me/painting/artist/106)
 - [https://nickel-rune-building.glitch.me/painting/artist/43374534856](​https://nickel-rune-building.glitch.me/painting/artist/43374534856)
