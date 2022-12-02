@@ -8,8 +8,8 @@
 [https://nickel-rune-building.glitch.me/painting/gallery/43374534856](https://nickel-rune-building.glitch.me/painting/gallery/43374534856)\
 [https://nickel-rune-building.glitch.me/painting/artist/106](https://nickel-rune-building.glitch.me/painting/artist/106)\
 [https://nickel-rune-building.glitch.me/painting/artist/43374534856](https://nickel-rune-building.glitch.me/painting/artist/43374534856)\
-[https://nickel-rune-building.glitch.me/painting/year/1850/1900](https://nickel-rune-building.glitch.me/year/1850/1900)\
-[https://nickel-rune-building.glitch.me/painting/year/2200/2400](https://nickel-rune-building.glitch.me/year/2200/2400)\
+[https://nickel-rune-building.glitch.me/painting/year/1850/1900](https://nickel-rune-building.glitch.me/painting/year/1850/1900)\
+[https://nickel-rune-building.glitch.me/painting/year/2200/2400](https://nickel-rune-building.glitch.me/painting/year/2200/2400)\
 [https://nickel-rune-building.glitch.me/painting/title/self](https://nickel-rune-building.glitch.me/painting/title/self)\
 [https://nickel-rune-building.glitch.me/title/dfjkghdfkgh](https://nickel-rune-building.glitch.me/title/dfjkghdfkgh)\
 [https://nickel-rune-building.glitch.me/color/NAPA](https://nickel-rune-building.glitch.me/color/NAPA)\
