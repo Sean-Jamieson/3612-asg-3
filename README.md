@@ -12,7 +12,7 @@
 [https://nickel-rune-building.glitch.me/painting/year/2200/2400](https://nickel-rune-building.glitch.me/painting/year/2200/2400)\
 [https://nickel-rune-building.glitch.me/painting/title/self](https://nickel-rune-building.glitch.me/painting/title/self)\
 [https://nickel-rune-building.glitch.me/title/dfjkghdfkgh](https://nickel-rune-building.glitch.me/title/dfjkghdfkgh)\
-[https://nickel-rune-building.glitch.me/color/NAPA](https://nickel-rune-building.glitch.me/color/NAPA)\
+[https://nickel-rune-building.glitch.me/painting/color/NAPA](https://nickel-rune-building.glitch.me/painting/color/NAPA)\
 [https://nickel-rune-building.glitch.me/painting/color/coffee%20bean](https://nickel-rune-building.glitch.me/painting/color/coffee%20bean)\
 [https://nickel-rune-building.glitch.me/color/kcvhvxchbkcj](https://nickel-rune-building.glitch.me/color/kcvhvxchbkcj)\
 [https://nickel-rune-building.glitch.me/artists](https://nickel-rune-building.glitch.me/artists)\
