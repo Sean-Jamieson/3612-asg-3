@@ -14,7 +14,7 @@
 [https://nickel-rune-building.glitch.me/title/dfjkghdfkgh](https://nickel-rune-building.glitch.me/title/dfjkghdfkgh)\
 [https://nickel-rune-building.glitch.me/painting/color/NAPA](https://nickel-rune-building.glitch.me/painting/color/NAPA)\
 [https://nickel-rune-building.glitch.me/painting/color/coffee%20bean](https://nickel-rune-building.glitch.me/painting/color/coffee%20bean)\
-[https://nickel-rune-building.glitch.me/color/kcvhvxchbkcj](https://nickel-rune-building.glitch.me/color/kcvhvxchbkcj)\
+[https://nickel-rune-building.glitch.me/painting/color/kcvhvxchbkcj](https://nickel-rune-building.glitch.me/painting/color/kcvhvxchbkcj)\
 [https://nickel-rune-building.glitch.me/artists](https://nickel-rune-building.glitch.me/artists)\
 [https://nickel-rune-building.glitch.me/artists/Netherlands](https://nickel-rune-building.glitch.me/artists/Netherlands)\
 [https://nickel-rune-building.glitch.me/artists/sdfjjsdf](https://nickel-rune-building.glitch.me/artists/sdfjjsdf)\
