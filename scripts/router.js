@@ -73,7 +73,7 @@ const handlePaintingByYearRange = app => {
 };
 const handlePaintingByTitle= app => {
     app.get('/painting/title/:text', (req,resp) => {
-        const matches = data.paintings.filter( p => p.title == decodeURI(req.params.text));
+        const matches = data.paintings.filter( p => p.title.toUpperCase().includes(decodeURI(req.params.text).toUpperCase()));
         if (matches.length > 0)
             resp.json(matches);
         else    
@@ -85,11 +85,11 @@ const handlePaintingByColor = app => {
         const matches = data.paintings.filter( p => {
             for(let color of p.details.annotation.dominantColors){
                 if (color.name.toUpperCase() == decodeURI(req.params.name).toUpperCase()){
+                    console.log(color.name);
                     return true;
-                } else {
-                    return false;
                 }
             }
+            return false;
         });
         if (matches.length > 0)
             resp.json(matches);
