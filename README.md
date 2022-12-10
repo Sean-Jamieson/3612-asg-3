@@ -5,6 +5,7 @@
 [https://spiritual-curly-colby.glitch.me/paintings](https://spiritual-curly-colby.glitch.me/paintings)\
 [https://spiritual-curly-colby.glitch.me/paintings/443](https://spiritual-curly-colby.glitch.me/painting/443)\
 [https://spiritual-curly-colby.glitch.me/paintings/43374534856](https://spiritual-curly-colby.glitch.me/painting/43374534856)\
+[https://spiritual-curly-colby.glitch.me/painting/gallery/7](https://spiritual-curly-colby.glitch.me/painting/gallery/7)\
 [https://spiritual-curly-colby.glitch.me/painting/gallery/43374534856](https://spiritual-curly-colby.glitch.me/painting/gallery/43374534856)\
 [https://spiritual-curly-colby.glitch.me/painting/artist/106](https://spiritual-curly-colby.glitch.me/painting/artist/106)\
 [https://spiritual-curly-colby.glitch.me/painting/artist/43374534856](https://spiritual-curly-colby.glitch.me/painting/artist/43374534856)\
